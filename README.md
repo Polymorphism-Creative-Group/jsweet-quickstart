@@ -1,11 +1,11 @@
 # JSweet quick start [![](https://github.com/cincheo/jsweet-quickstart/workflows/JSweetBuild/badge.svg)](https://github.com/cincheo/jsweet-quickstart/actions)
 
-A simple project to get started with JSweet. This project just contains a main method that shows 'Hello world' messages in two different ways. The program uses the [J4TS](https://github.com/cincheo/j4ts) candy to access `java.util` API, and the jQuery candy. Programmers can use it to set up a new JSweet project and try out some basic features.
+A simple project to get started with JSweet, forked from [cincheo](https://github.com/cincheo/jsweet-quickstart.git). This project just contains a main method that shows 'Hello world' messages in two different ways. The program uses the [J4TS](https://github.com/cincheo/j4ts) candy to access `java.util` API, and the jQuery candy. Programmers can use it to set up a new JSweet project and try out some basic features.
 
 ## Usage
 
 ```
-> git clone https://github.com/cincheo/jsweet-quickstart.git
+> git clone https://github.com/Polymorphism-Creative-Group/jsweet-quickstart.git
 > cd jsweet-quickstart
 > mvn generate-sources
 > firefox webapp/index.html
